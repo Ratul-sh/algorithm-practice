@@ -4,6 +4,6 @@ class Solution:
    
 x = Solution()
 
-y = x.buildArray([1,3,5,8,2])
+y = x.buildArray([1,3,4,0,2])
 print(y)
 
